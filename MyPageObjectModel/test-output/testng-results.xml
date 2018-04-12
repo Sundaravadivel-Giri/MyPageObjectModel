@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="49459" started-at="2018-04-12T17:33:12Z" finished-at="2018-04-12T17:34:02Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="49459" started-at="2018-04-12T17:33:12Z" finished-at="2018-04-12T17:34:02Z">
+      <class name="Test.LoginTest">
+        <test-method status="PASS" signature="preConfig()[pri:0, instance:Test.LoginTest@6eebc39e]" name="preConfig" is-config="true" duration-ms="2782" started-at="2018-04-12T23:03:12Z" finished-at="2018-04-12T23:03:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preConfig -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:Test.LoginTest@6eebc39e]" name="setUp" is-config="true" duration-ms="5389" started-at="2018-04-12T23:03:15Z" finished-at="2018-04-12T23:03:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="Login_Flipkart()[pri:0, instance:Test.LoginTest@6eebc39e]" name="Login_Flipkart" duration-ms="35165" started-at="2018-04-12T23:03:20Z" finished-at="2018-04-12T23:03:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login_Flipkart -->
+        <test-method status="PASS" signature="terminate()[pri:0, instance:Test.LoginTest@6eebc39e]" name="terminate" is-config="true" duration-ms="4495" started-at="2018-04-12T23:03:55Z" finished-at="2018-04-12T23:04:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- terminate -->
+        <test-method status="PASS" signature="terminateAll()[pri:0, instance:Test.LoginTest@6eebc39e]" name="terminateAll" is-config="true" duration-ms="1568" started-at="2018-04-12T23:04:00Z" finished-at="2018-04-12T23:04:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- terminateAll -->
+      </class> <!-- Test.LoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

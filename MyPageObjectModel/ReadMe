@@ -1,0 +1,18 @@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~README~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+``````````````````````````FRAMEWORK DEFINITIONS``````````````````````
+1.Framework is based out of TestNG
+2.TestExecution is triggered by running "TestTrigger.java" under supportLibraries package
+3.TestNG.xml are dynamically created to reduce manual effort and all testcases are mapped in "RunManager.xls"
+
+`````````````````````````GLOBAL PROPERTIES``````````````````````````
+1.Framework properties are defined under "GlobalSettings.properties" file
+
+``````````````````````````DATA-INPUT`````````````````````````````
+1.Data is fetched from AUtomation.xlsx for respective testScripts
+
+``````````````````````````REPORTING``````````````````````````````
+1.Reporting is logged under "test-output" --> MyOwnReport.html with summary and graphical representation
+
+
+
+
